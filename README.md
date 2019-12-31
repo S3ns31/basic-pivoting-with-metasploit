@@ -1,7 +1,6 @@
 # basic-pivoting-with-metasploit
 
 Basic Pivoting By Using Metasploit
-Posted by Henry HON on December 30, 2019
 
 This is a very basic demo or tutorial (for beginner) on how to use Metasploit to conduct Pivoting.
 
